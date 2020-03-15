@@ -11,4 +11,4 @@ In the second case, the attributes from the existing ones in the given group wer
 In the third method, the mean and standard deviation for each attribute were determined and a floating-point number from the mean-std to mean+std range was drawn.
 For comparison, three ready-made methods of data balancing were also used.
 
-Random forest was used as the most suitable machin learning model for unbalanced data, and f1 was used for assessment.
+Random forest was used as the most suitable machine learning model for unbalanced data, and f1 was used for assessment.
